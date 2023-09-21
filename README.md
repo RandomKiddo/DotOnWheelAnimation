@@ -7,8 +7,10 @@ ___
 
 This project utilizes Mathematica to animate a dot on a rolling wheel. The raw project file is provided, but a PDF is also provided for reading. The gifs/movs don't work in the PDF, but are provided for you to see. The gifs are lower quality than the movs, but the movs must be downloaded to view. To avoid this, view the gifs. The full notebook as a download is provided for a better experience.
 
+As of 09.21.2023, the gifs are now higher quality, but the movs are still better.
+
 ___
 
 [Back to Top](#dot-on-wheel-animation)
 
-<sub>This page was last edited on 09.20.2023</sub>
+<sub>This page was last edited on 09.21.2023</sub>
